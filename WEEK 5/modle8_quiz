@@ -1,0 +1,91 @@
+Question 1
+Which of the following is TRUE about the random-effects model? 
+
+1 / 1 point
+
+The random effects model assumes that all studies in the meta-analysis share a common (“true”) effect.
+
+
+The random effects model assumes that all observed variation reflects sampling (“random”) error.
+
+
+The random-effects model is generally used when the variation in estimates among included studies is considered low.
+
+
+The random-effects model assumes that the different studies in the meta-analysis are estimating different, but related, intervention effects sampled from a distribution of true effects.
+
+Correct
+2. Question 2
+Which of the following is/are TRUE about the assignment of weights in a meta-analysis using a fixed-effect model? (SELECT ALL THAT APPLY)
+
+1 / 1 point
+
+The weight assigned to a study in a fixed-effect model equals to the inverse of variance of that study.
+
+Correct
+
+Information from larger studies and smaller studies are weighted equally.
+
+
+Information from more precise studies is weighted more heavily than information from less precise studies.
+
+Correct
+
+In a fixed-effect model, weight assignment does not depend on study sample size.
+
+3. Question 3
+Which of the following is TRUE about the fixed-effect model?
+
+1 / 1 point
+
+The assumptions underlying the fixed-effects model are the same as those underlying the random-effects model.
+
+
+The fixed-effect model assumes that all studies in the analysis share a common (“true”) effect.
+
+
+The summary effect in the fixed-effect model is the estimate of the mean of all relevant true effects.
+
+
+True effects in the studies are assumed to have been sampled from a distribution of true effects.
+
+Correct
+4. Question 4
+Which of the following is/are assumed source(s) of variance in the random-effects model? 
+
+A.	Within-studies variance (i.e., random error within studies)
+
+B.	Between-studies variance (i.e., variance of the distribution of the true effects across studies)
+
+1 / 1 point
+
+A.
+
+
+B.
+
+
+Both A. and B.
+
+
+Neither A. or B.
+
+Correct
+5. Question 5
+Which of the following is TRUE about the Tau-squared estimate?
+
+(SELECT ALL THAT APPLY)
+
+1 / 1 point
+
+If the number of studies is large, then the estimate of Tau-squared will have poor precision.
+
+
+Tau-squared is an estimate of the between-studies variance
+
+Correct
+
+Tau-squared is an estimate of the within-studies variance.
+
+
+Tau-squared is the total of the estimates of the within-studies and between-studies variances.
